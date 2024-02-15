@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @logtomic
 - 👀 I’m interested in TypeScript/React & Python projects!
-- 🌱 I’m currently learning proper repository structure and components
+- 🌱 I’m currently padding out a portfolio!
